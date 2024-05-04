@@ -1,0 +1,32 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sidlatau.flutteremailsender" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="16"
+6-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="16" />
+7-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:2:5-12:19
+10        <provider
+10-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:3:9-11:20
+11            android:name="com.sidlatau.flutteremailsender.FlutterEmailSenderFileProvider"
+11-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:4:13-90
+12            android:authorities="${applicationId}.file_provider"
+12-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:5:13-65
+13            android:exported="false"
+13-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:6:13-37
+14            android:grantUriPermissions="true" >
+14-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:7:13-47
+15            <meta-data
+15-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:8:13-10:61
+16                android:name="android.support.FILE_PROVIDER_PATHS"
+16-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:9:17-67
+17                android:resource="@xml/shared_file_paths" />
+17-->/home/a19hu/.pub-cache/hosted/pub.dev/flutter_email_sender-6.0.3/android/src/main/AndroidManifest.xml:10:17-58
+18        </provider>
+19    </application>
+20
+21</manifest>
