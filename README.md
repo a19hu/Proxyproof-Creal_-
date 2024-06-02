@@ -27,7 +27,7 @@ Download the [APK file](https://drive.google.com/file/d/15gbXBYPlb4c4B8qN_WQiadF
 To install this project, follow these steps:
 1. Clone the repository.
    ```sh
-   https://github.com/a19hu/Proxyproof-Creal_-.git
+   git clone https://github.com/a19hu/Proxyproof-Creal_-.git
 
 2. Navigate to the project directory.
    ```sh
