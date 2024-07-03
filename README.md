@@ -1,5 +1,5 @@
 # Creal
-A new Flutter project made for Cource.
+A new Flutter project made for  Software Cource.
 
 ## Project Logo
 <div align="center">
